@@ -73,7 +73,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$http://www.wogg.xyz:2052/",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/alitoken.txt$$$http://www.wogg.xyz:2052/",
             "timeout": 30
         },
         {
@@ -84,7 +84,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/alitoken.txt",
             "timeout": 30
         },
         {
@@ -95,7 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/alitoken.txt",
             "timeout": 30
         },
         {
