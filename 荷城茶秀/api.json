@@ -9,11 +9,11 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
-    "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
+    "warningText": "荷城茶秀",
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🅱️追剧影院|T热播 QQ频道:tvboxrihou6",
+            "name": "🅱️追剧影院|T热播",
             "type": 3,
             "api": "./Api.js",
             "searchable": 0,
@@ -98,7 +98,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/alitoken.txt"
         },
         {
             "key": "Czspp",
@@ -491,7 +491,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/alitoken.txt"
         },
         {
             "key": "PanSou",
@@ -501,7 +501,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/alitoken.txt"
         },
         {
             "key": "UpYun",
@@ -511,7 +511,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/alitoken.txt"
         },
         {
             "key": "Zhaozy",
@@ -521,7 +521,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$ygfxz$$$66666"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/alitoken.txt$$$ygfxz$$$66666"
         },
         {
             "key": "cctv",
